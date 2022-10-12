@@ -1,7 +1,4 @@
-from calendar import c
-from hashlib import new
-from inspect import stack
-from this import d
+
 
 
 class StackList: 
